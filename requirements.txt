@@ -1,15 +1,15 @@
 # utilities
 numpy
 pandas
-
 # Face Recognition
 scikit-learn
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<82
-
-supabase   
+supabase
 bcrypt
-
 segno
 pillow
+# Voice Recognition
+resemblyzer
+librosa
