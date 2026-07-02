@@ -1,5 +1,4 @@
 import streamlit as st
-
 from src.Screens.home_screen import home_screen
 from src.Screens.student_screen import student_screen
 from src.Screens.teacher_screen import teacher_screen
